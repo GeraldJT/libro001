@@ -1,4 +1,4 @@
-# Bienvenidos al libro de visitas 
+# Bienvenidos a este libro de visitas 
 
 This is a small sample book to give you a feel for how book content is
 structured.
